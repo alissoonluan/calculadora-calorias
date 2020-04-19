@@ -1,12 +1,6 @@
-# getkcal
-
-Estes são os arquivos iniciais do projeto **getkcal** disponível no YouTube.
+# Calculadora de calorias, feita para estudos.
 
 ## Instalação
-
-Este projeto não precisa de nenhuma depedência para funcionar, porém durante a aula iremos utilizar o pacote `serve` para roda-lo no browser através de um servidor node.
-
-Sinta-se a vontade caso queira rodar este projeto direto no seu browser clicando com o botão direito no arquivo `index.html` e, em seguida, selecionando a opção `Abrir Com` e selecionando o navegador de sua preferência.
 
 Você precisará ter o [NodeJS](https://nodejs.org) instalado na sua máquina, e, após isso, clonar este repositório:
 ```sh
